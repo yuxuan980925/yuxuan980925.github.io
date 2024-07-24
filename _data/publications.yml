@@ -1,7 +1,7 @@
 main:
 
   - title: A Principle-based Analysis for Numerical Balancing
-    authors: Aleks KNOKS, Muyun SHAO, Leon VAN DER TORRE, Vincent DE WIT, <strong>Liuwen YU</strong> 
+    authors: Aleks KNOKS, Muyun SHAO, Leendert VAN DER TORRE, Vincent DE WIT, <strong>Liuwen YU</strong> 
     conference: Logics for New-Generation Artificial Intelligence (LNGAI2024)
     pdf: ./assets/files/balancing.pdf
     page: https://orbilu.uni.lu/handle/10993/61533
@@ -10,3 +10,11 @@ main:
     notes: Published
 
   
+ - title: A principle-based analysis of bipolar argumentation semantics
+    authors: <strong>Liuwen YU</strong>, Caren Al ANAISSY, Srdjan VESIC, Xu LI, Leendert VAN DER TORRE
+    conference: European Conference on Logics in Artificial Intelligence
+    pdf: ./assets/files/bipolar JELIA.pdf
+    page: https://orbilu.uni.lu/handle/10993/61533
+    image: ./assets/files/bipolar JELIA.jpg
+    bibtex: ./assets/files/bipolar JELIA.txt
+    notes: Published
