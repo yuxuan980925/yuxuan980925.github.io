@@ -4,7 +4,7 @@
 
 <p><strong>Address:</strong> <a href="https://www.google.com/maps/place/2+Av.+de+l'Universite+l+4365,+4365+Esch-Belval+Esch-sur-Alzette,+Luxembourg/@49.504176,5.9494136,17z/data=!3m1!4b1!4m5!3m4!1s0x47eacad30e7558fd:0xb69d2c3e31cfbc57!8m2!3d49.504176!4d5.9494136?entry=ttu">2 Avenue de l'Universite L, 4365 Esch-sur-Alzette, Luxembourg</a>
 <br />
-<strong>Office Location:</strong> Centre de Nanosciences et de Nanotechnologies
+<strong>Office Location:</strong> 3rd Floor, Maison du Nombre
 <br />
 <strong>Email:</strong> <email>yuliuwen02(at) gmail.com</email>
 <br />
