@@ -28,20 +28,4 @@ My research lies at knowledge representation and reasoning, especially on common
 ## Grants and Fellowships
 - **[Marie Skłodowska-Curie Actions (MSCA) grant for Law, Science and Technology Joint Doctorate: Rights of the Internet of Everything](https://cordis.europa.eu/project/id/814177)**, 2019-2022, Grant Number: 814177
 
-## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
 
-## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
-
-{% include_relative _includes/contact.md %}
