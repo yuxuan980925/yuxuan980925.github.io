@@ -13,21 +13,17 @@ My research lies at knowledge representation and reasoning, especially on common
 
 ## Research Interest
 
-- **Ion-material Simulation:** SRIM, SDTrimSP, RustBCA
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Knowledge representation and reasoning:**
+- **Dialogue technology** 
+- **AI ethics**
+- **Explainable AI** 
+
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
+- **Ph.D. in Computer Science**, 2019 - 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg
+- **Ph.D. in Law, Science and Technology**, 2019 - 2023, [University of Bologna](https://www.unibo.it/), Italy
+- **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
+
 
 ## Grants and Fellowships
 - **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
