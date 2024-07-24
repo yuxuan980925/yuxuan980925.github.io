@@ -12,7 +12,7 @@ address: 2 Avenue de l'Universite L, 4365 Esch-sur-Alzette, Luxembourg
 # Search Engine Optimization (SEO)
 keywords: liuwenyu, yuliuwen, Liuwen Yu, Yu Liuwen, 俞柳闻
 canonical: https://minimal-light-theme.yliu.me/
-description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
+description: Hi there! I am a postdoctoral researcher at the Department of Computer Science of the University of Luxembourg. My research lies at knowledge representation and reasoning, especially on common sense reasoning using tools like formal argumentation and non-monotonic logics. I am also interested in exploring different parts of computational AI argumentation, dialogue technology, AI ethics, etc., and also how these diverse domains interact and inform each other.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -22,10 +22,8 @@ enable_last_update: false
 
 # Links
 cv_link: https://blog.songchen.science/de3ec0aa2234aa1e3ee275bbc715c6c9/CV.pdf
-google_scholar: https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de
-github_link: https://github.com/song-chen1/
-linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+google_scholar: https://scholar.google.com.hk/citations?user=Fl1CSW0AAAAJ&hl=zh-CN&oi=ao
+dblp: https://dblp.org/pid/264/7514.html
 
 # Images 
 avatar: ./assets/img/avatar3.jpg
