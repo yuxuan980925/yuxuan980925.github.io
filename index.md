@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am a postdoctoral researcher at the Department of Computer Science of the University of Luxembourg, where I am a member of the [CLAiM group on Computational Law and Machine Ethics] (https://www.uni.lu/fstm-en/research-groups/computational-law-and-machine-ethics/) led by [Dr. Réka Markovich](https://rekamarkovich.github.io/). 
+I am a postdoctoral researcher at the Department of Computer Science of the University of Luxembourg, where I am a member of the [CLAiM group on Computational Law and Machine Ethics](https://www.uni.lu/fstm-en/research-groups/computational-law-and-machine-ethics/) led by [Dr. Réka Markovich](https://rekamarkovich.github.io/). 
 
 My research lies at knowledge representation and reasoning, especially on common sense reasoning using tools like formal argumentation and non-monotonic logics. I am also interested in exploring different parts of computational AI argumentation, dialogue technology, AI ethics, etc., and also how these diverse domains interact and inform each other.
 
