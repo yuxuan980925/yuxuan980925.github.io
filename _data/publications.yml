@@ -5,6 +5,7 @@ main:
     conference: Logics for New-Generation Artificial Intelligence (LNGAI2024)
     pdf: ./assets/files/balancing.pdf
     page: https://orbilu.uni.lu/handle/10993/61533
+    image: ./assets/files/balancing.jpg
     bibtex: ./assets/files/balancing.txt
     notes: Published
 
