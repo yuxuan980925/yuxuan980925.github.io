@@ -26,7 +26,7 @@ My research lies at knowledge representation and reasoning, especially on common
 
 
 ## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
+- **[Marie Skłodowska-Curie Actions (MSCA) grant for Law, Science and Technology Joint Doctorate: Rights of the Internet of Everything](https://cordis.europa.eu/project/id/814177)**, 2019-2022, Grant Number: 814177
 
 ## Professional Affiliations
 - **Marie Curie Alumni Association Member**, 2021 - Present
