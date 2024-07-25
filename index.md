@@ -37,4 +37,4 @@ My research lies at knowledge representation and reasoning, especially on common
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/contact.md %}
+
