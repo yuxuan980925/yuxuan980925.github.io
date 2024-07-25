@@ -12,3 +12,13 @@ main:
     notes: Published
 
 
+ - title: A Principle-based Analysis for Numerical Balancing
+    authors: Aleks KNOKS, Muyun SHAO, Leendert VAN DER TORRE, Vincent DE WIT, <strong>Liuwen YU</strong> 
+    conference_short: LNGAI
+    conference: Logics for New-Generation Artificial Intelligence (LNGAI2024)
+    pdf: ./assets/files/balancing.pdf
+    page: https://orbilu.uni.lu/handle/10993/61533
+    bibtex: ./assets/files/balancing.txt
+    image: ./assets/files/multi.jpg
+    citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
+    notes: Published
