@@ -6,13 +6,11 @@ main:
     url: ./#publications
     right: true
 
-  - title: "Research Grant"
-    url: ./#projects
-
   - title: "Teaching"
     url: ./#teaching
 
-
+  - title: "Research Grant"
+    url: ./#projects
     
   - title: "Education"
     url: ./#education
