@@ -6,7 +6,7 @@ main:
     url: ./#publications
     right: true
 
-  - title: "Projects"
+  - title: "Research Grant"
     url: ./#projects
 
   - title: "Teaching"
