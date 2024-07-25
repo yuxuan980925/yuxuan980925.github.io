@@ -4,5 +4,5 @@
 
 <ul>
 
-<li><strong>[Apirl. 2024]</strong> Joint doctoral course on Introduction to Formal and Computational Argumentation at University of Luxembourg and Zhejiang University </li>	
+<li><strong>[Apirl. 2024]</strong> Joint doctoral course on <strong>Introduction to Formal and Computational Argumentation<strong> at the University of Luxembourg and Zhejiang University </li>	
 </ul>
