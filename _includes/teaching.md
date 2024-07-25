@@ -4,6 +4,6 @@
 
 <ul>
 
-<li><strong>[Apirl. 2024]</strong> Joint doctoral course: <strong>Introduction to Formal and Computational Argumentation<strong>, at the University of Luxembourg and Zhejiang University </li>	
-  <li><strong>[Apirl. 2024]</strong> Master course: <strong>Intelligent Agent 1<strong>, at the University of Luxembourg </li>	
+<li><strong>[Apirl. 2024]</strong> Joint doctoral course: <strong>Introduction to Formal and Computational Argumentation</strong>, at the University of Luxembourg and Zhejiang University </li>	
+  <li><strong>[Apirl. 2024]</strong> Master course: <strong>Intelligent Agent 1</strong>, at the University of Luxembourg </li>	
 </ul>
