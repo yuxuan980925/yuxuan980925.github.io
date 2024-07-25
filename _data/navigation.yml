@@ -11,7 +11,7 @@ main:
     url: ./#projects
 
   - title: "Teaching"
-    url: ./#news
+    url: ./#teaching
 
   - title: "Bio"
     url: ./#about-me
