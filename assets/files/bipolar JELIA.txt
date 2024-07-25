@@ -1,0 +1,8 @@
+@inproceedings{yu2023principle,
+  title={A principle-based analysis of bipolar argumentation semantics},
+  author={Yu, Liuwen and Al Anaissy, Caren and Vesic, Srdjan and Li, Xu and van der Torre, Leendert},
+  booktitle={European Conference on Logics in Artificial Intelligence},
+  pages={209--224},
+  year={2023},
+  organization={Springer}
+}
