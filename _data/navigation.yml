@@ -4,9 +4,6 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Conferences & Events"
-    url: ./#conferences
-
   - title: "Publications"
     url: ./#publications
 
@@ -15,9 +12,6 @@ main:
 
   - title: "News"
     url: ./#news
-
-  - title: "Blogs"
-    url: ./blog/
 
   - title: "Bio"
     url: ./#about-me
