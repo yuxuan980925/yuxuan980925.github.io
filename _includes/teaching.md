@@ -4,5 +4,5 @@
 
 <ul>
 
-<li><strong>[SEP. 2023]</strong> The BeMAGIC Final Event will be held between 14-15 December 2023 at <span style="color:#e74d3c"><a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">UAB</a></span>, Barcelona, Spain.</li>	
+<li><strong>[Apirl. 2024]</strong> Joint doctoral course on Introduction to Formal and Computational Argumentation at University of Luxembourg and Zhejiang University </li>	
 </ul>
