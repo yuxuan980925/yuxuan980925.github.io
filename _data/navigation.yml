@@ -2,6 +2,7 @@ main:
 
   - title: "Education"
     url: ./#education
+    right: true
 
   - title: "Publications"
     url: ./#publications
