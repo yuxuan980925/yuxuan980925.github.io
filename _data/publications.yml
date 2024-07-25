@@ -26,6 +26,6 @@ main:
     conference: International Conference on Logic and Argumentation
     pdf: ./assets/files/bipolar JELIA.pdf
     page: https://link.springer.com/chapter/10.1007/978-3-031-40875-5_5
-    bibtex: ./assets/files/bipolar JELIA.txt
+    bibtex: ./assets/files/flexible.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
