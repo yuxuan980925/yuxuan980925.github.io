@@ -1,31 +1,31 @@
 main:
 
-  - title: A Principle-based Analysis for Numerical Balancing
-    authors: Aleks KNOKS, Muyun SHAO, Leendert VAN DER TORRE, Vincent DE WIT, <strong>Liuwen YU</strong> 
-    conference_short: LNGAI
-    conference: Logics for New-Generation Artificial Intelligence (LNGAI2024)
-    pdf: ./assets/files/balancing.pdf
-    page: https://orbilu.uni.lu/handle/10993/61533
-    bibtex: ./assets/files/balancing.txt
-    image: ./assets/files/multi.jpg
-    notes: Published
-
-  - title: A principle-based analysis of bipolar argumentation semantics
-    authors: <strong>Liuwen YU</strong>, Caren Al ANAISSY, Srdjan VESIC, Xu LI, Leendert VAN DER TORRE
-    conference_short: JELIA
-    conference: European Conference on Logics in Artificial Intelligence
-    pdf: ./assets/files/bipolar JELIA.pdf
-    page: https://link.springer.com/chapter/10.1007/978-3-031-43619-2_15
-    bibtex: ./assets/files/bipolar JELIA.txt
-    image: ./assets/files/bipolar JELIA.jpg
-    notes: Published
-
-  - title: Weakest Link in Formal Argumentation: Lookahead and Principle-Based Analysis
-    authors: Chen CHEN, Pere PARDO, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
-    conference_short: CLAR
-    conference: International Conference on Logic and Argumentation
-    pdf: ./assets/files/bipolar JELIA.pdf
-    page: https://link.springer.com/chapter/10.1007/978-3-031-40875-5_5
-    bibtex: ./assets/files/weakest.txt
-    image: ./assets/files/bipolar JELIA.jpg
-    notes: Published
+    - title: A Principle-based Analysis for Numerical Balancing
+      authors: Aleks KNOKS, Muyun SHAO, Leendert VAN DER TORRE, Vincent DE WIT, <strong>Liuwen YU</strong> 
+      conference_short: LNGAI
+      conference: Logics for New-Generation Artificial Intelligence (LNGAI2024)
+      pdf: ./assets/files/balancing.pdf
+      page: https://orbilu.uni.lu/handle/10993/61533
+      bibtex: ./assets/files/balancing.txt
+      image: ./assets/files/multi.jpg
+      notes: Published
+  
+    - title: A principle-based analysis of bipolar argumentation semantics
+      authors: <strong>Liuwen YU</strong>, Caren Al ANAISSY, Srdjan VESIC, Xu LI, Leendert VAN DER TORRE
+      conference_short: JELIA
+      conference: European Conference on Logics in Artificial Intelligence
+      pdf: ./assets/files/bipolar JELIA.pdf
+      page: https://link.springer.com/chapter/10.1007/978-3-031-43619-2_15
+      bibtex: ./assets/files/bipolar JELIA.txt
+      image: ./assets/files/bipolar JELIA.jpg
+      notes: Published
+  
+    - title: Weakest Link in Formal Argumentation: Lookahead and Principle-Based Analysis
+      authors: Chen CHEN, Pere PARDO, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
+      conference_short: CLAR
+      conference: International Conference on Logic and Argumentation
+      pdf: ./assets/files/bipolar JELIA.pdf
+      page: https://link.springer.com/chapter/10.1007/978-3-031-40875-5_5
+      bibtex: ./assets/files/weakest.txt
+      image: ./assets/files/bipolar JELIA.jpg
+      notes: Published
