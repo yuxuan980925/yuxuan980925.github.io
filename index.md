@@ -29,7 +29,7 @@ My research lies at knowledge representation and reasoning, especially on common
   - Supervisor: Prof. Dr. [Beishui Liao](https://person.zju.edu.cn/beishui)
 
 
-## Grants and Fellowships
+## Research Grants 
 - **[Marie Skłodowska-Curie Actions (MSCA) grant for Law, Science and Technology Joint Doctorate: Rights of the Internet of Everything](https://cordis.europa.eu/project/id/814177)**, 2019-2022, Grant Number: 814177
 
 
