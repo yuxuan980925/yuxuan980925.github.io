@@ -20,7 +20,7 @@ main:
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
-   - title: Weakest Link in Formal Argumentation: Lookahead and Principle-Based Analysis
+  - title: Weakest Link in Formal Argumentation: Lookahead and Principle-Based Analysis
     authors: Chen CHEN, Pere PARDO, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference_short: CLAR
     conference: International Conference on Logic and Argumentation
