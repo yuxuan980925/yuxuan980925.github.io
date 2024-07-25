@@ -13,7 +13,7 @@ My research lies at knowledge representation and reasoning, especially on common
 
 ## Research Interest
 
-- **Knowledge representation and reasoning:**
+- **Knowledge representation and reasoning**
 - **Dialogue technology** 
 - **AI ethics**
 - **Explainable AI** 
@@ -21,8 +21,8 @@ My research lies at knowledge representation and reasoning, especially on common
 
 ## Education
 - **Ph.D. in Computer Science and Ph.D. in Law, Science and Technology **, 2019 - 2023
-- [University of Luxembourg](https://www.uni.lu/), Luxembourg
-- [University of Bologna](https://www.unibo.it/), Italy
+  - [University of Luxembourg](https://www.uni.lu/), Luxembourg
+  - [University of Bologna](https://www.unibo.it/), Italy
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
 
 
