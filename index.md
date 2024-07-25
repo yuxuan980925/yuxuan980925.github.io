@@ -20,14 +20,17 @@ My research lies at knowledge representation and reasoning, especially on common
 
 
 ## Education
-- **Ph.D. in Computer Science and Ph.D. in Law, Science and Technology **, 2019 - 2023
-  - [University of Luxembourg](https://www.uni.lu/), Luxembourg
-  - [University of Bologna](https://www.unibo.it/), Italy
+- **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg
+- **Ph.D. in Law, Science and Technology**, 2019 – 2023, [University of Bologna](https://www.unibo.it/), Italy
+  - Joint Thesis: "Distributed Argumentation Technology" 
+  - Supervisor: Prof. Dr. [Leon van der Torre](https://icr.uni.lu/leonvandertorre/)
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
+  - Thesis: "An analysis of abstract argumentation frameworks with sub-arguments" 
+  - Supervisor: Prof. Dr. [Beishui Liao](https://person.zju.edu.cn/beishui)
 
 
-## Grants and Fellowships<img width="826" alt="Screenshot 2024-07-25 at 07 49 04" src="https://github.com/user-attachments/assets/a77276b9-8696-4721-982a-a405f44f167f">
 
+## Grants and Fellowships
 - **[Marie Skłodowska-Curie Actions (MSCA) grant for Law, Science and Technology Joint Doctorate: Rights of the Internet of Everything](https://cordis.europa.eu/project/id/814177)**, 2019-2022, Grant Number: 814177
 
 
