@@ -1,17 +1,21 @@
 main:
 
-  - title: "Education"
-    url: ./#education
-    right: true
-
+  
+  
   - title: "Publications"
     url: ./#publications
+    right: true
 
   - title: "Projects"
     url: ./#projects
 
   - title: "Teaching"
     url: ./#teaching
+
+
+    
+  - title: "Education"
+    url: ./#education
 
   - title: "About"
     url: ./#about-me
