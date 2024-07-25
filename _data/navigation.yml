@@ -1,7 +1,7 @@
 main:
 
   - title: "Education"
-    url: ./#Education
+    url: ./#education
 
   - title: "Publications"
     url: ./#publications
