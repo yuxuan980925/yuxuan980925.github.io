@@ -20,14 +20,13 @@ My research lies at knowledge representation and reasoning, especially on common
 
 
 ## Education
-- **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg
+- **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg, AND
 - **Ph.D. in Law, Science and Technology**, 2019 – 2023, [University of Bologna](https://www.unibo.it/), Italy
   - Joint Thesis: "Distributed Argumentation Technology" 
   - Supervisor: Prof. Dr. [Leon van der Torre](https://icr.uni.lu/leonvandertorre/)
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
   - Thesis: "An analysis of abstract argumentation frameworks with sub-arguments" 
   - Supervisor: Prof. Dr. [Beishui Liao](https://person.zju.edu.cn/beishui)
-
 
 
 ## Grants and Fellowships
