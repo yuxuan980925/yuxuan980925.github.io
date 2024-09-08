@@ -15,7 +15,7 @@ My research lies at knowledge representation and reasoning, especially on common
 
 - **Knowledge representation and reasoning**
 - **Dialogue technology** 
-- **AI ethics**
+- **Machine ethics**
 - **Explainable AI** 
 
 
