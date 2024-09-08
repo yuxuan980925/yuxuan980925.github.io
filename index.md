@@ -14,7 +14,10 @@ My research lies at knowledge representation and reasoning, especially on common
 ## Research Interest
 
 - **Knowledge representation and reasoning**
-- **Dialogue technology** 
+- **Formal argumentation and dialogue**
+- **Legal argumentation and dialogue**
+- **Distributed argumentation technology**
+- **Text reasoning with foundation models for argumentation and dialogue**  
 - **Machine ethics**
 - **Explainable AI** 
 
