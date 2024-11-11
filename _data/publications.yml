@@ -89,6 +89,15 @@ main:
     bibtex: ./assets/files/KR2021.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
-
+    
+  - title: "Interpretations of support among arguments"
+    authors: <strong>Liuwen YU</strong>, Dongheng CHEN, Lisha QIAO, Yiqi SHEN, Leendert VAN DER TORRE
+    conference_short: JURIX
+    conference: Legal Knowledge and Information Systems
+    pdf: ./assets/files/JURIX2020.pdf
+    page: https://ebooks.iospress.nl/doi/10.3233/FAIA200863
+    bibtex: ./assets/files/JURIX2020.txt
+    image: ./assets/files/bipolar JELIA.jpg
+    notes: Published
     
 
