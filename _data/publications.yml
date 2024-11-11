@@ -45,7 +45,7 @@ main:
     conference_short: EXTRAAMAS
     conference: The International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems
     pdf: ./assets/files/CBR2022.pdf
-    page: https://orbilu.uni.lu/bitstream/10993/60883/1/_LNGAI00003c.pdf
+    page: https://link.springer.com/chapter/10.1007/978-3-031-15565-9_9
     bibtex: ./assets/files/CBR2022.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
@@ -55,7 +55,7 @@ main:
     conference_short: ICAART 
     conference: Conference on Agents and Artificial Intelligence
     pdf: ./assets/files/IHiBO_ICAART.pdf
-    page: https://orbilu.uni.lu/bitstream/10993/60883/1/_LNGAI00003c.pdf
+    page: https://cris.unibo.it/handle/11585/843223
     bibtex: ./assets/files/IHiBO_ICAART.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
@@ -65,7 +65,7 @@ main:
     conference_short: HICSS
     conference: The 55th Annual Hawaii International Conference on System Sciences
     pdf: ./assets/files/HICSS2021_IHiBO.pdf
-    page: https://orbilu.uni.lu/bitstream/10993/60883/1/_LNGAI00003c.pdf
+    page: https://orbilu.uni.lu/handle/10993/50022
     bibtex: ./assets/files/IHiBO_HICSS.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
