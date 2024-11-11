@@ -60,5 +60,15 @@ main:
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
+  - title: "Enhancing Trust in Trust Services: Towards an Intelligent Human-input-based Blockchain Oracle (IHiBO)"
+    authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro Najjar
+    conference_short: HICSS
+    conference: The 55th Annual Hawaii International Conference on System Sciences
+    pdf: ./assets/files/HICSS2021_IHiBO.pdf
+    page: https://orbilu.uni.lu/bitstream/10993/60883/1/_LNGAI00003c.pdf
+    bibtex: ./assets/files/IHiBO_HICSS.txt
+    image: ./assets/files/bipolar JELIA.jpg
+    notes: Published
+
     
 
