@@ -49,6 +49,16 @@ main:
     bibtex: ./assets/files/CBR2022.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
+    
+  - title: "Intelligent Human-input-based Blockchain Oracle (IHiBO)"
+    authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro Najjar
+    conference_short: ICAART 
+    conference: Conference on Agents and Artificial Intelligence
+    pdf: ./assets/files/IHiBO_ICAART.pdf
+    page: https://orbilu.uni.lu/bitstream/10993/60883/1/_LNGAI00003c.pdf
+    bibtex: ./assets/files/IHiBO_ICAART.txt
+    image: ./assets/files/bipolar JELIA.jpg
+    notes: Published
 
     
 
