@@ -80,5 +80,15 @@ main:
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
+  - title: "A principle-based analysis of abstract agent argumentation semantics"
+    authors: <strong>Liuwen YU</strong>, Dongheng CHEN, Lisha QIAO, Yiqi SHEN, Leendert VAN DER TORRE
+    conference_short: KR
+    conference: The 18th International Conference on Principles of Knowledge Representation and Reasoning
+    pdf: ./assets/files/KR2021.pdf
+    page: https://cris.unibo.it/bitstream/11585/846903/2/A%20Principle-based%20Analysis%20of%20Abstract%20Agent%20Argumentation%20Semantics.pdf
+    bibtex: ./assets/files/KR2021.txt
+    image: ./assets/files/bipolar JELIA.jpg
+    notes: Published
+
     
 
