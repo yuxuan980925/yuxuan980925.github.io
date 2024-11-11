@@ -39,6 +39,16 @@ main:
     bibtex: ./assets/files/LNGAI invite.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
+    
+  - title: "Case-Based Reasoning via Comparing the Strength Order of Features"
+    authors: <strong>Liuwen YU</strong>, Dov GABBAY
+    conference_short: EXTRAAMAS
+    conference: The International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems
+    pdf: ./assets/files/CBR2022.pdf
+    page: https://orbilu.uni.lu/bitstream/10993/60883/1/_LNGAI00003c.pdf
+    bibtex: ./assets/files/CBR2022.txt
+    image: ./assets/files/bipolar JELIA.jpg
+    notes: Published
 
     
 
