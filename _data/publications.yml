@@ -34,7 +34,7 @@ main:
     authors: Pere PARDO, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference_short: LNGAI
     conference: International Conference on Logic and Argumentation
-    pdf: ./assets/files/LNGAI invite.pdf
+    pdf: ./assets/files/LNGAI_invite.pdf
     page: https://orbilu.uni.lu/bitstream/10993/60883/1/_LNGAI00003c.pdf
     bibtex: ./assets/files/LNGAI invite.txt
     image: ./assets/files/bipolar JELIA.jpg
