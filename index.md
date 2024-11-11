@@ -26,7 +26,7 @@ My research lies at knowledge representation and reasoning, especially on common
 - **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg, AND
 - **Ph.D. in Law, Science and Technology**, 2019 – 2023, [University of Bologna](https://www.unibo.it/), Italy
   - Joint Thesis: "Distributed Argumentation Technology" <a href="assets/files/Thesis_LiuwenYU.pdf" role="button" target="_blank" style="font-size:12px;color: #000000;border: 1px solid #000000;padding-left: 0.5rem;padding-right: 0.5rem;padding-top: 0.1rem;padding-bottom: 0.1rem;">PDF</a >
-  - Supervisor: Prof. Dr. [Leon van der Torre](https://icr.uni.lu/leonvandertorre/)
+  - Supervisor: Prof. Dr. [Leendert (Leon) van der Torre](https://icr.uni.lu/leonvandertorre/)
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
   - Thesis: "An analysis of abstract argumentation frameworks with sub-arguments" 
   - Supervisor: Prof. Dr. [Beishui Liao](https://person.zju.edu.cn/beishui)
