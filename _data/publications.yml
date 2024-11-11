@@ -30,7 +30,7 @@ main:
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
- - title: "Advanced Intelligent Systems and Reasoning: Standardization, Experimentation, Explanation"
+  - title: "Advanced Intelligent Systems and Reasoning: Standardization, Experimentation, Explanation"
     authors: Pere PARDO, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference_short: LNGAI
     conference: International Conference on Logic and Argumentation
