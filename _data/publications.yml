@@ -100,7 +100,7 @@ main:
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
-  - title: "Interpretations of support among arguments"
+  - title: "A principle-based approach to bipolar argumentation"
     authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE
     conference_short: NMR
     conference: 18th International Workshop on Non-monotonic Reasoning (NMR2020)
