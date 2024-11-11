@@ -1,0 +1,8 @@
+@inproceedings{yu2022case,
+  title={Case-Based Reasoning via Comparing the Strength Order of Features},
+  author={Yu, Liuwen and Gabbay, Dov},
+  booktitle={International Workshop on Explainable, Transparent Autonomous Agents and Multi-Agent Systems},
+  pages={143--151},
+  year={2022},
+  organization={Springer}
+}
