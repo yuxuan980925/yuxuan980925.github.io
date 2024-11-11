@@ -91,12 +91,22 @@ main:
     notes: Published
     
   - title: "Interpretations of support among arguments"
-    authors: <strong>Liuwen YU</strong>, Dongheng CHEN, Lisha QIAO, Yiqi SHEN, Leendert VAN DER TORRE
+    authors: <strong>Liuwen YU</strong>, Réka MARKOVICH, Leendert VAN DER TORRE
     conference_short: JURIX
     conference: Legal Knowledge and Information Systems (JURIX2020)
     pdf: ./assets/files/JURIX2020.pdf
     page: https://ebooks.iospress.nl/doi/10.3233/FAIA200863
     bibtex: ./assets/files/JURIX2020.txt
+    image: ./assets/files/bipolar JELIA.jpg
+    notes: Published
+
+  - title: "Interpretations of support among arguments"
+    authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE
+    conference_short: NMR
+    conference: 18th International Workshop on Non-monotonic Reasoning (NMR2020)
+    pdf: ./assets/files/NMR2020.pdf
+    page: A Principle-based Approach to Bipolar Argumentation
+    bibtex: ./assets/files/NMR2020.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
     
