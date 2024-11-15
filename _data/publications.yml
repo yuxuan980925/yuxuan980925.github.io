@@ -1,6 +1,6 @@
 main:
 
-  - title: (forthcoming) "Thirteen Challenges in Formal and Computational Argumentation"
+  - title: "Thirteen Challenges in Formal and Computational Argumentation"
     authors: <strong>Liuwen YU</strong>, Réka MARKOVICH, Leendert VAN DER TORRE
     conference: Handbbook of Formal Argumentation Vol. 3. / Journal of Applied Logics
     notes: Forthcoming
@@ -10,6 +10,17 @@ main:
     authors: Pere PARDO, <strong>Liuwen YU</strong>, Chen CHEN, Leendert VAN DER TORRE
     conference: Journal of Logic and Computation
     notes: Forthcoming
+
+  - title: "Balancing (Normative) Reasons for the Intelligent Human-input-based Blockchain Oracle"
+    authors: Vincent DE WIT, <strong>Liuwen YU</strong>, Réka MARKOVICH, Amro NAJJAR
+    conference: Causality, Agents and Large Models 2024 (CALM 2024) Proceedings
+    notes: Forthcoming
+
+  - title: "Assessing the Robustness of LLMs in Predicting Supports and Attacks"
+    authors: Benoît ALCARAZl, Aria NOURBAKHSH, <strong>Liuwen YU</strong>
+    conference: Causality, Agents and Large Models 2024 (CALM 2024) Proceedings
+    notes: Forthcoming
+    
   - title: A Principle-based Analysis for Numerical Balancing
     authors: Aleks KNOKS, Muyun SHAO, Leendert VAN DER TORRE, Vincent DE WIT, <strong>Liuwen YU</strong> 
     conference_short: LNGAI
@@ -61,7 +72,7 @@ main:
     notes: Published
     
   - title: "Intelligent Human-input-based Blockchain Oracle (IHiBO)"
-    authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro Najjar
+    authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro NAJJAR
     conference_short: ICAART 
     conference: Conference on Agents and Artificial Intelligence (ICAART2022)
     pdf: ./assets/files/IHiBO_ICAART.pdf
@@ -71,7 +82,7 @@ main:
     notes: Published
 
   - title: "Enhancing Trust in Trust Services: Towards an Intelligent Human-input-based Blockchain Oracle (IHiBO)"
-    authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro Najjar
+    authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro NAJJAR
     conference_short: HICSS
     conference: The 55th Annual Hawaii International Conference on System Sciences (HICSS2022)
     pdf: ./assets/files/HICSS2021_IHiBO.pdf
@@ -81,7 +92,7 @@ main:
     notes: Published
 
   - title: "Argumentation in Trust Services within a Blockchain Environment"
-    authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro Najjar
+    authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro NAJJAR
     conference_short: BNAIC
     conference: The 33rd Benelux Conference on Artificial Intelligence and the 30th Belgian Dutch Conference on Machine Learning (BNAIC2021)
     pdf: ./assets/files/IHiBO_trust.pdf
