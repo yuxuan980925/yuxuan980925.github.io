@@ -1,5 +1,9 @@
 main:
 
+  - title: (forthcoming) "Thirteen Challenges in Formal and Computational Argumentation"
+    authors: <strong>Liuwen YU</strong>, Réka MARKOVICH, Leendert VAN DER TORRE
+    conference: Handbbook of Formal Argumentation Vol. 3. / Journal of Applied Logics
+  
   - title: A Principle-based Analysis for Numerical Balancing
     authors: Aleks KNOKS, Muyun SHAO, Leendert VAN DER TORRE, Vincent DE WIT, <strong>Liuwen YU</strong> 
     conference_short: LNGAI
@@ -110,9 +114,7 @@ main:
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
-  - title: (forthcoming) "Thirteen Challenges in Formal and Computational Argumentation"
-    authors: <strong>Liuwen YU</strong>, Réka MARKOVICH, Leendert VAN DER TORRE
-    conference: Handbbook of Formal Argumentation Vol. 3. / Journal of Applied Logics
+
 
     
 
