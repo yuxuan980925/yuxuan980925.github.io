@@ -109,5 +109,10 @@ main:
     bibtex: ./assets/files/NMR2020.txt
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
+
+  - title: "Thirteen Challenges in Formal and Computational Argumentation"
+    authors: <strong>Liuwen YU</strong>, Réka MARKOVICH, Leendert VAN DER TORRE
+    conference: Handbbook of Formal Argumentation Vol. 3. / Journal of Applied Logics
+
     
 
