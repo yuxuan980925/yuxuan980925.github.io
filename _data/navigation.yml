@@ -10,9 +10,6 @@ main:
   - title: "Academic Service"
     url: ./#academic-service
 
-  - title: "Teaching"
-    url: ./#teaching
-
   - title: "Obtained Funding"
     url: ./#obtained-funding
 
