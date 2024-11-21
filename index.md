@@ -8,9 +8,7 @@ layout: homepage
 
 I am a postdoctoral researcher at the Department of Computer Science of the University of Luxembourg, where I am a member of the [CLAiM group on Computational Law and Machine Ethics](https://www.uni.lu/fstm-en/research-groups/computational-law-and-machine-ethics/) led by [Dr. Réka Markovich](https://rekamarkovich.github.io/). 
 
-I am an AI researcher focusing on symbolic and hybrid approaches for human-level and human-centered AI in application areas like digital transformation of law and finance. With an interdisciplinary background—having graduated from the Law, Science, and Technology - joint doctoral program (LAST-JD)—I am working towards bridging the gap between technological innovation and societal values.  
-
-AI encompasses sub-symbolic AI that is data-driven models like Large Language Models (LLMs), and symbolic AI, rooted in knowledge representation and reasoning (KRR). They offer complementary strengths, and both of them are transversal due to their applicability in so many different application domains. Rooted in KRR, my interests are in the foundations of AI and general concerns about the use of AI, particularly in the digital transformation of law and finance. 
+I am an AI researcher focusing on symbolic and hybrid approaches for human-level and human-centered AI in application areas like digital transformation of law and finance. 
 
 
 
