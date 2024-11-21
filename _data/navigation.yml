@@ -10,11 +10,11 @@ main:
   - title: "Academic Service"
     url: ./#academic-service
 
-  - title: "Obtained Funding"
-    url: ./#obtained-funding
-
   - title: "Teaching"
     url: ./#teaching
+
+  - title: "Obtained Funding"
+    url: ./#obtained-funding
 
   - title: "Participating In Research Grants"
     url: ./#participating-in-research-grants
