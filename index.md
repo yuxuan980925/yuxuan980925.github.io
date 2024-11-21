@@ -32,7 +32,7 @@ My research lies at knowledge representation and reasoning, especially on common
   - Supervisor: Prof. Dr. [Beishui Liao](https://person.zju.edu.cn/beishui)
 
 ## Participating In Research Grants 
-- **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project (PI: Dr. Réka Markovich)
+- **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project (PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/))
 - **2024.04 – 2024.09** Postdoctoral researcher, DELIGHT (Deontic Logic for EpistemicRights), FNR OPEN research grant Nr. O20/14776480
 - **2019.11 – 2022.10** Doctoral researcher, LAST-JD-RIoE (Law, Science and Technol-ogy, Rights of Internet of Everything) MSCA ITN (Marie Sk lodowska-Curie actions Eu-ropean Joint Doctorates) Horizon 2020 EU project 814177
 
