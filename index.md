@@ -89,8 +89,6 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2020.07** The Principle-based Approach to Bipolar Argumentation, at ICR Seminar, University of Luxembourg
 - **2019.12** On the Optimized Utilization of Smart Contracts in DLTs from the Perspective of Legal Representation and Legal Reasoning, at 32nd International Conference on Legal Knowledge and Information Systems (JURIX2019), Madrid, Spain
 
-{% include_relative _includes/teaching.md %}
-
 {% include_relative _includes/publications.md %}
 
 
