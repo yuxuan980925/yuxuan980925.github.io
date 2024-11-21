@@ -12,15 +12,6 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 AI encompasses sub-symbolic AI that is data-driven models like Large Language Models (LLMs), and symbolic AI, rooted in knowledge representation and reasoning (KRR). They offer complementary strengths, and both of them are transversal due to their applicability in so many different application domains. Rooted in KRR, my interests are in the foundations of AI and general concerns about the use of AI, particularly in the digital transformation of law and finance. 
 
-## Research Interest
-- **Digital transformation of law and finance**
-- **Knowledge representation and reasoning**
-- **Formal argumentation and dialogue**
-- **Legal argumentation and dialogue**
-- **Distributed argumentation technology**
-- **Text reasoning with foundation models for argumentation and dialogue**  
-- **Machine ethics**
-- **Explainable AI** 
 
 
 ## Education
@@ -31,7 +22,7 @@ AI encompasses sub-symbolic AI that is data-driven models like Large Language Mo
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
   - Thesis: "An analysis of abstract argumentation frameworks with sub-arguments" 
   - Supervisor: Prof. Dr. [Beishui Liao](https://person.zju.edu.cn/beishui)
-
+- **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China
 ## Participating In Research Grants 
 - **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project (PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/))
 - **2024.04 – 2024.09** Postdoctoral researcher, DELIGHT (Deontic Logic for EpistemicRights), FNR OPEN research grant Nr. O20/14776480
