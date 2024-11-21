@@ -1,17 +1,17 @@
 main:
 
+  - title: "Publications"
+    url: ./#publications
+    right: true
+
   - title: "Additional Information"
     url: ./#additional-information
-    right: true
 
   - title: "Academic Service"
     url: ./#academic-service
 
   - title: "Obtained Funding"
     url: ./#obtained-funding
-
-  - title: "Publications"
-    url: ./#publications
 
   - title: "Teaching"
     url: ./#teaching
