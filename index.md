@@ -15,7 +15,7 @@ AI encompasses sub-symbolic AI that is data-driven models like Large Language Mo
 
 
 ## Education
-- **Ph.D. in LAST-JD-RIoE (Law, Science and Technology, Rights of Internet of Everything) MSCA ITN (Marie Skłodowska-Curie actions European Joint Doctorates)**, 2019 – 2023, [University of Bologna](https://www.unibo.it/), AND
+- **Ph.D. in LAST-JD-RIoE (Law, Science and Technology, Rights of Internet of Everything) MSCA ITN (Marie Skłodowska-Curie actions European Joint Doctorates)**, 2019 – 2023, AND
 - **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg
   - Joint Thesis: "Distributed Argumentation Technology" <a href="assets/files/Thesis_LiuwenYU.pdf" role="button" target="_blank" style="font-size:12px;color: #000000;border: 1px solid #000000;padding-left: 0.5rem;padding-right: 0.5rem;padding-top: 0.1rem;padding-bottom: 0.1rem;">PDF</a >
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
