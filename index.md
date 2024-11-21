@@ -15,13 +15,10 @@ AI encompasses sub-symbolic AI that is data-driven models like Large Language Mo
 
 
 ## Education
-- **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg, AND
-- **Ph.D. in Law, Science and Technology**, 2019 – 2023, [University of Bologna](https://www.unibo.it/), Italy
+- **Ph.D. in LAST-JD-RIoE (Law, Science and Technology, Rights of Internet of Everything) MSCA ITN (Marie Skłodowska-Curie actions European Joint Doctorates)**, 2019 – 2023, [University of Bologna](https://www.unibo.it/), AND
+- **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg
   - Joint Thesis: "Distributed Argumentation Technology" <a href="assets/files/Thesis_LiuwenYU.pdf" role="button" target="_blank" style="font-size:12px;color: #000000;border: 1px solid #000000;padding-left: 0.5rem;padding-right: 0.5rem;padding-top: 0.1rem;padding-bottom: 0.1rem;">PDF</a >
-  - Supervisor: Prof. Dr. [Leendert (Leon) van der Torre](https://icr.uni.lu/leonvandertorre/)
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
-  - Thesis: "An analysis of abstract argumentation frameworks with sub-arguments" 
-  - Supervisor: Prof. Dr. [Beishui Liao](https://person.zju.edu.cn/beishui)
 - **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China
 ## Participating In Research Grants 
 - **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project (PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/))
