@@ -6,15 +6,12 @@ main:
 
   - title: "Academic Service"
     url: ./#academic-service
-    right: true
 
   - title: "Obtained Funding"
     url: ./#obtained-funding
-    right: true
 
   - title: "Publications"
     url: ./#publications
-    right: true
 
   - title: "Teaching"
     url: ./#teaching
