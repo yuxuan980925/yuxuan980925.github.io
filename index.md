@@ -12,12 +12,15 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 
 
-## Education
-- **Ph.D. in LAST-JD-RIoE (Law, Science and Technology, Rights of Internet of Everything) MSCA ITN (Marie Skłodowska-Curie actions European Joint Doctorates)**, 2019 – 2023, AND
+## Education and Key Qualification
+- **Ph.D. Joint Doctorate in LAST-JD-RIoE-MSCA-ITN (Law, Science and Technology Joint Doctorate: Rights of Internet of Everything - funded under the EU's Marie Skłodowska-Curie Action - Innovative Training Network)**, 2019 – 2023, AND
 - **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg
   - Joint Thesis: "Distributed Argumentation Technology" <a href="assets/files/Thesis_LiuwenYU.pdf" role="button" target="_blank" style="font-size:12px;color: #000000;border: 1px solid #000000;padding-left: 0.5rem;padding-right: 0.5rem;padding-top: 0.1rem;padding-bottom: 0.1rem;">PDF</a >
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
 - **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China
+
+## Current Position
+- **2023 - present** Postdoctoral researcher at the Computational Law and Machine Ethics (CLAiM) group led by Dr. Réka Markovich, Department of Computer Science, University of Luxembourg
 
 ## Participating In Research Grants 
 - **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project (PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/))
@@ -62,12 +65,12 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 
 ### Talks
 - **2024.10** Three Conceptualizations of Formal Argumentation (Invited Talk), at Logic & AI Seminar, University of Bergen, Norway
-- **2024.06** Weakest Link, Prioritised Default Logic, and Principles in Argumentation (In-vited Talk), at The Fourth International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2024), Zhejiang University, China
+- **2024.06** Weakest Link, Prioritised Default Logic, and Principles in Argumentation (Invited Talk), at The Fourth International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2024), Zhejiang University, China
 - **2024.03** Distributed Argumentation Technology, at 6th Madeira Workshop on Belief Revision, Argumentation, Ontologies, and Norms, Madeira, Portugal
 - **2023.11** Legal and Moral Reasoning Capabilities in Intelligent Machines (Invited Talk), at Computer Science Department, Cadi Ayyad University, Morocco
 - **2023.11** Law, Science, and Technology in Luxembourg (Invited Talk), at Computer Science Department, Cadi Ayyad University, Morocco
 - **2023.09** From Distributed Argumentation Technology (DAT) to Dialogue Technology (DT), at ZLAIRE Kickoff, Zhejiang University, China
-- **2023.05** Principles and Practice of Formal Argumentation: Argument Strength, Ac-ceptance, and Storage (Invited Talk), at Tsinghua University, China
+- **2023.05** Principles and Practice of Formal Argumentation: Argument Strength, Acceptance, and Storage (Invited Talk), at Tsinghua University, China
 - **2022.05** Case-based Reasoning via Comparing the Strength Order of Features, at 4th International Workshop on EXplainable TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS2022), Virtual
 - **2022.01** Enhancing Trust in Trust Services: Towards an Intelligent Human-input-based Blockchain Oracle (IHiBO), at 55th Hawaii International Conference on System Sciences (HICSS2022), Virtual
 - **2021.12** A Principle-based Analysis of Abstract Agent Argumentation Semantics (Invited Talk), at The 5th IEEE International Conference on Agents (IEEE ICA2021), Virtual
