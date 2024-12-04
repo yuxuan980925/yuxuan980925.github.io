@@ -28,10 +28,10 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **2024** SERAFIN - Symbolic and Explainable Regulatory AI for Finance Innovation, FNR CORE (Project budget: 598K Euros)
 
 ## Academic Service
-- Reviewer of AAMAS2025 (International Conference on Autonomous Agents and Multia-gent Systems).
-- Reviewer of EXTRAAMAS 2024 (The International Workshop on EXplainable and TRAns-parent AI and Multi-Agent Systems).
-- Chair of CALM 2024 (Workshop on Causality, Agents and Large Models 2024).
-- Editor of CALM 2024 (Workshop on Causality, Agents and Large Models 2024), Commu-nications in Computer and Information Science (CCIS) post-proceedings volume.
+- Reviewer for the 24th International Conference on Autonomous Agents and Multiagent Systems 2025 (AAMAS 2025).
+- Reviewer for the 6th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2024).
+- Chair of the 2024 workshop on Causality, Agents and Large Models (CALM 2024).
+- Editor of the Computer and Information Science (CCIS) post-proceedings for CALM 2024.
 
 ## Additional Information
 ### Organisation of scientific meetings
