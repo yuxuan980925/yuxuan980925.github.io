@@ -36,7 +36,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 ## Additional Information
 ### Organisation of scientific meetings
 - **2024** CALM 2024 in Kyoto, Japan.
-- **2023** ICR \& CLAiM workshop on Distributed Argumentation Technology
+- **2023** ICR & CLAiM workshop on Distributed Argumentation Technology
 - **2023** Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop. 
 
 ### Supervision of students
