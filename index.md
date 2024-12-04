@@ -35,14 +35,14 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 ## Additional Information
 ### Organisation of scientific meetings
-- **2024** CALM 2024 (Workshop on Causality, Agents, and Large Models) in Kyoto, Japan.
-- **2023** ICR & CLAiM workshop after my PhD defense
-- **2023** ZLAIRE Kickoff (Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning).
+- **2024** CALM 2024 in Kyoto, Japan.
+- **2023** ICR \& CLAiM workshop on Distributed Argumentation Technology
+- **2023** Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop. 
 
 ### Supervision of students
-- **2024** Tutor of a bachelor semester project of Velija Delikj  on autonomous cars
-- **2022 - present** Advisor of the doctoral researcher Vincent de Wit
-- **2023 - present** Advisor of master and PhD students from Zhejiang University through ZLAIRE
+- **2024** Tutor for Velija Delikj's bachelor semester project on autonomous cars
+- **2022 - present** Advisor for Vincent de Wit, a doctoral researcher
+- **2023 - present** Advisor for master's and PhD students from Zhejiang University through ZLAIRE
 
 ### Teaching Profile and Activities
 I enjoy **both research-based teaching and foundational teaching**. My research-based teaching focuses on advanced topics in knowledge representation and reasoning, including logic and formal argumentation in AI. Additionally, I contribute to foundational education by coordinating textbook drafting and teaching core subjects in computer science, such as discrete mathematics, propositional logic, and first-order logic.
