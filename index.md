@@ -19,9 +19,6 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
 - **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China
 
-## Current Position
-- **2023 - present** Postdoctoral researcher at the Computational Law and Machine Ethics (CLAiM) group led by Dr. Réka Markovich, Department of Computer Science, University of Luxembourg
-
 ## Participating In Research Grants 
 - **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project (PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/))
 - **2024.04 – 2024.09** Postdoctoral researcher, DELIGHT (Deontic Logic for EpistemicRights), FNR OPEN research grant Nr. O20/14776480
