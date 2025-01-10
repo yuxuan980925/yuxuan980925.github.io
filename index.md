@@ -28,7 +28,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **2024** SERAFIN - Symbolic and Explainable Regulatory AI for Finance Innovation, FNR CORE (Project budget: 598K Euros)
 
 ## Academic Service
-- PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence 2025 (Forthcoming).
+- PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025 Forthcoming).
 - Reviewer for the 24th International Conference on Autonomous Agents and Multiagent Systems 2025 (AAMAS 2025).
 - Reviewer for the 6th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2024).
 - PC Chair of the 2024 workshop on Causality, Agents and Large Models (CALM 2024).
@@ -48,7 +48,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 ### Teaching Profile and Activities
 I enjoy **both research-based teaching and foundational teaching**. My research-based teaching focuses on advanced topics in knowledge representation and reasoning, including logic and formal argumentation in AI. Additionally, I contribute to foundational education by coordinating textbook drafting and teaching core subjects in computer science, such as discrete mathematics, propositional logic, and first-order logic.
 
-- **2025.06** Course on *From Logic to Argumentation in AI* at **North American Summer School in Logic, Language, and Information 2025** (Forthcoming)
+- **2025.06** Course on *From Logic to Argumentation in AI* at **North American Summer School in Logic, Language, and Information 2025** (NASSLI 2025 Forthcoming)
 - **2024.09 – 2024.12** Master Course on *Intelligent Systems: Agents and Reasoning*
 - **2024.04 – 2024.06** Doctoral Course on *Introduction to Formal and Computational Argumentation*
 - **2024.04 – 2024.06** Master Course on *Intelligent Agents 1*
