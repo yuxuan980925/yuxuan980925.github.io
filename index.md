@@ -29,6 +29,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 ## Academic Service
 - PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025 Forthcoming).
+- PC Member of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
 - Reviewer for the 24th International Conference on Autonomous Agents and Multiagent Systems 2025 (AAMAS 2025).
 - Reviewer for the 6th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2024).
 - PC Chair of the 2024 workshop on Causality, Agents and Large Models (CALM 2024).
